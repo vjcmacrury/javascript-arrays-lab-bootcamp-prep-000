@@ -36,7 +36,7 @@ function prependKitten(kitty6) {
 
 function removeLastKitten(kitty7) {
   var kitten = ["Milo", "Otis", "Garfield"];
-  kitty7 = ["Arnold",...kitten];
+  kitty7.slice
   return(kitty7)
 }
 }
