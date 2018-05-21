@@ -34,4 +34,9 @@ function prependKitten(kitty6) {
   return(kitty6)
 }
 
-function
+function removeLastKitten(kitty7) {
+  var kitten = ["Milo", "Otis", "Garfield"];
+  kitty7 = ["Arnold",...kitten];
+  return(kitty7)
+}
+}
