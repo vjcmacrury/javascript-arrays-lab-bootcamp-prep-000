@@ -40,8 +40,8 @@ function removeLastKitten(kitty7) {
   return(kitty7)
 }
 
-function removeLastKitten(kitty7) {
+function removeFirstKitten(kitty8) {
   var kitten = ["Milo", "Otis", "Garfield"];
-  kitty7 = kitten.slice(0, kitten.length - 1);
-  return(kitty7)
+  kitty8 = kitten.slice(1);
+  return(kitty8)
 }
