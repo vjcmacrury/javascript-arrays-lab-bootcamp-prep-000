@@ -18,5 +18,6 @@ function destructivelyRemoveLastKitten(kitty3) {
 }
 
 function destructivelyRemoveFirstKitten(kitty4) {
-  kittens.shift()
+  kittens.shift();
+  return(kittens)
 }
