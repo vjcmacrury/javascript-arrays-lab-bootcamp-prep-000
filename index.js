@@ -22,4 +22,6 @@ function destructivelyRemoveFirstKitten(kitty4) {
   return(kittens)
 }
 
-function 
+function appendKitten(kitty5) {
+  kitty5 = kitten.push()
+}
