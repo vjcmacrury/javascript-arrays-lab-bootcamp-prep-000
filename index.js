@@ -12,4 +12,6 @@ function destructivelyPrependKitten(kitty2) {
   return(kittens)
 }
 
-function 
+function destructivelyRemoveLastKitten(kitty3) {
+  
+}
